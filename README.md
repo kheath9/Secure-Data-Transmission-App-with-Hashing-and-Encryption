@@ -10,6 +10,8 @@ Use the package manager to install cryptography
 pip install cryptography
 ```
 
+[![VgpTLrSG8qQ](https://img.youtube.com/vi/VgpTLrSG8qQ/0.jpg)](https://www.youtube.com/watch?v=VgpTLrSG8qQ)
+
 ## Confidentiality, integrity, and availability 
 
 This program upholds the principle of confidentiality by using Fernet symmetric encryption to protect the user's message. The generated key ensures that only authorized users with the correct key can see the original message.
